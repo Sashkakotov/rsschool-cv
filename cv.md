@@ -12,7 +12,7 @@
   ## My skills
   *HTML
   *CSS
-  *Javascript
+  
 ***
   ## Education
   Belorussian- Russian University
