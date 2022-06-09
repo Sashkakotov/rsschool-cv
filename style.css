@@ -111,7 +111,7 @@ margin: 150px 0px 0px 70px;
 }
 .github-link {
   text-decoration: none;
-  color: #829985;
+  color: goldenrod;
   transition: color 0.5s;
 }
 
@@ -134,3 +134,10 @@ margin: 150px 0px 0px 70px;
 .imgicon {
   width: 20px;
 }
+.link-project{
+  color: goldenrod;
+  text-decoration: none;
+  transition: 0.3s;
+}
+.link-project:hover {
+  color: #d30c0c;}
